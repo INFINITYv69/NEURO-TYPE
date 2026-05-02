@@ -1,6 +1,6 @@
 # 🧠 NeuroType: Early Parkinson's Detection via Keystroke Dynamics
 
-![NeuroType Header](file:///C:/Users/chakr/.gemini/antigravity/brain/f8ebd1ea-a0a8-49e5-9ce3-037d23f96acf/neuro_type_header_1777746023624.png)
+![NeuroType Header](./public/assets/header.png)
 
 > **"Your keyboard has always been a medical device."**
 
